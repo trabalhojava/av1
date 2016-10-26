@@ -1,4 +1,4 @@
-import java.util.Scanner;
+ort java.util.Scanner;
 
 /*
    *  3 números inteiros, imprimir o menor e o maior
@@ -9,6 +9,9 @@ import java.util.Scanner;
    * main = Nome do método, que é obrigatório ser este. Recebe como parâmetro um array de String.
    * String[] args = Array de argumentos que podem ser repassados na chamada do programa.
 */
+
+
+
 
 public class MenorMaior {
     public static void main(String[] args) {
